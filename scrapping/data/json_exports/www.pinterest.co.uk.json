@@ -1,0 +1,26 @@
+{
+  "url": "https://www.pinterest.co.uk",
+  "title": "Pinterest",
+  "meta_description": "Discover recipes, home ideas, style inspiration and other ideas to try.",
+  "meta_keywords": "",
+  "text_content": "Pinterest Oh no! Pinterest doesn't work unless you turn on JavaScript.",
+  "canonical_url": "https://www.pinterest.com/",
+  "category": "social_media",
+  "country": "GB",
+  "crawl_date": "2026-03-22T16:23:36.986201",
+  "links": [
+    "http://enable-javascript.com/"
+  ],
+  "image_urls": [],
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "word_count": 11,
+  "link_count": 1,
+  "image_count": 0
+}

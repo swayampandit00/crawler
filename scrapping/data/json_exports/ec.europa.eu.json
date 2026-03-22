@@ -1,0 +1,51 @@
+{
+  "url": "https://ec.europa.eu",
+  "title": "Language selection | European Commission",
+  "meta_description": "The official website of the European Commission, providing access to information about its political priorities, policies and services",
+  "meta_keywords": "European Commission",
+  "text_content": "Language selection | European Commission Skip to main content bg български es español cs čeština da dansk de Deutsch et eesti el ελληνικά en English fr français ga Gaeilge hr hrvatski it italiano lv latviešu lt lietuvių hu magyar mt Malti nl Nederlands pl polski pt português ro română sk slovenčina sl slovenščina fi suomi sv svenska",
+  "canonical_url": "https://commission.europa.eu/index_en",
+  "category": "government",
+  "country": "EU",
+  "crawl_date": "2026-03-22T16:22:43.400623",
+  "links": [
+    "https://commission.europa.eu/index_ga",
+    "https://commission.europa.eu/index_fr",
+    "https://commission.europa.eu/index_es",
+    "https://commission.europa.eu/index_lt",
+    "https://commission.europa.eu/index_hu",
+    "https://commission.europa.eu/index_nl",
+    "https://commission.europa.eu/index_el",
+    "https://commission.europa.eu/index_bg",
+    "https://commission.europa.eu/index_cs",
+    "https://commission.europa.eu/index_et",
+    "https://commission.europa.eu/index_en",
+    "https://commission.europa.eu/index_hr",
+    "https://commission.europa.eu/index_pl",
+    "https://commission.europa.eu/index_sv",
+    "https://commission.europa.eu/index_ro",
+    "https://commission.europa.eu/index_it",
+    "https://commission.europa.eu/index_mt",
+    "https://commission.europa.eu/index_sl",
+    "https://commission.europa.eu/index_sk",
+    "https://commission.europa.eu/index_da",
+    "https://commission.europa.eu/index_de",
+    "https://commission.europa.eu/index_pt",
+    "https://commission.europa.eu/index_fi",
+    "https://commission.europa.eu/index_lv"
+  ],
+  "image_urls": [
+    "https://ec.europa.eu/themes/contrib/oe_theme/dist/ec/images/logo/positive/logo-ec--mute.svg"
+  ],
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "word_count": 57,
+  "link_count": 24,
+  "image_count": 1
+}

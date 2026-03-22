@@ -1,0 +1,28 @@
+{
+  "url": "https://mastodon.social",
+  "title": "Mastodon",
+  "meta_description": "The original server of Mastodon, operated by Mastodon GmbH for the common good.",
+  "meta_keywords": "",
+  "text_content": "Mastodon To use the Mastodon web application, please enable JavaScript. Alternatively, try one of the native apps for Mastodon for your platform.",
+  "canonical_url": null,
+  "category": "social_media",
+  "country": "INT",
+  "crawl_date": "2026-03-22T16:22:48.351753",
+  "links": [
+    "https://joinmastodon.org/apps"
+  ],
+  "image_urls": [
+    "https://mastodon.social/packs/assets/logo-DXQkHAe5.svg"
+  ],
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "word_count": 22,
+  "link_count": 1,
+  "image_count": 1
+}

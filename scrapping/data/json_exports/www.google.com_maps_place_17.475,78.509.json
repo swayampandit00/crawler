@@ -1,0 +1,26 @@
+{
+  "url": "http://www.google.com/maps/place/17.475,78.509",
+  "title": "Google Maps",
+  "meta_description": "Find local businesses, view maps and get driving directions in Google Maps.",
+  "meta_keywords": "",
+  "text_content": "Google Maps When you have eliminated the JavaScript , whatever remains must be an empty page. Enable JavaScript to see Google Maps.",
+  "canonical_url": null,
+  "category": "portals_directories_jobs",
+  "country": "IN",
+  "crawl_date": "2026-03-22T16:29:26.428282",
+  "links": [
+    "https://support.google.com/maps/?hl=en&authuser=0&p=no_javascript"
+  ],
+  "image_urls": [],
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "word_count": 22,
+  "link_count": 1,
+  "image_count": 0
+}

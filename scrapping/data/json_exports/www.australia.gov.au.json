@@ -1,0 +1,46 @@
+{
+  "url": "https://www.australia.gov.au",
+  "title": "Find government payments and services | myGov",
+  "meta_description": "",
+  "meta_keywords": "",
+  "text_content": "Home Find government payments and services",
+  "canonical_url": "https://my.gov.au/en/services",
+  "category": "government",
+  "country": "AU",
+  "crawl_date": "2026-03-22T16:22:56.013875",
+  "links": [
+    "https://www.australia.gov.au/en/services",
+    "https://www.australia.gov.au/en/search",
+    "https://www.australia.gov.au/en/services/raising-kids",
+    "https://www.australia.gov.au/en/services/work",
+    "https://www.australia.gov.au/en/services/living-arrangements",
+    "https://www.australia.gov.au/en/services/health-and-disability",
+    "https://www.australia.gov.au/en",
+    "https://www.australia.gov.au/en/services/ageing",
+    "https://www.australia.gov.au/en/services/education",
+    "https://www.australia.gov.au/en/about/help"
+  ],
+  "image_urls": [
+    "https://www.australia.gov.au/en/services/living-arrangements/_jcr_content/_cq_featuredimage.coreimg.jpeg/1717551575607/living-arrangements-category.jpeg",
+    "https://www.australia.gov.au/en/services/work/_jcr_content/_cq_featuredimage.coreimg.jpeg/1718151573358/work-category.jpeg",
+    "https://www.australia.gov.au/content/dam/mygov/public/images/brand/myGov-logo-cobranded-black.svg",
+    "https://www.australia.gov.au/en/services/education/_jcr_content/_cq_featuredimage.coreimg.jpeg/1718156969343/education-category.jpeg",
+    "https://www.australia.gov.au/en/services/health-and-disability/_jcr_content/_cq_featuredimage.coreimg.jpeg/1718156799232/health-and-disability-category.jpeg",
+    "https://www.australia.gov.au/en/services/ageing/_jcr_content/_cq_featuredimage.coreimg.jpeg/1695793697920/older-australian-049-050-mygov-202264483.jpeg",
+    "https://www.australia.gov.au/en/services/raising-kids/_jcr_content/_cq_featuredimage.coreimg.jpeg/1693545613885/rasing-a-child-005-007-mygov-202259071.jpeg",
+    "https://www.australia.gov.au/content/dam/mygov/public/images/brand/myGov-logo-black.svg"
+  ],
+  "headings": {
+    "h1": [
+      "Find government payments and services"
+    ],
+    "h2": [],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "word_count": 6,
+  "link_count": 10,
+  "image_count": 8
+}

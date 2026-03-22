@@ -1,0 +1,20 @@
+{
+  "max_queue_size": 50000,
+  "max_depth": 999,
+  "num_workers": 4,
+  "default_delay": 1.0,
+  "max_retries": 2,
+  "request_timeout": 15,
+  "storage_dir": "data",
+  "save_json": true,
+  "export_on_stop": false,
+  "infinite_crawl": true,
+  "user_agent_rotation": true,
+  "respect_robots_txt": true,
+  "crawl_delay": {
+    "news": 1.0,
+    "social_media": 2.0,
+    "government": 3.0,
+    "default": 1.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://www.gst.gov.in",
+  "title": "Goods & Services Tax (GST) | Home",
+  "meta_description": "Goods And Services Tax",
+  "meta_keywords": "GST, Ministry of Finance, Government of India, Tax, Goods and Service Tax, Indirect Tax, India",
+  "text_content": "Goods & Services Tax (GST) | Home News and Updates View all Popular help topics How do I register with GST? How do I apply for refund? How do I file returns? How can I use Returns Offline Tool? How do I file an appeal? How do I file intimation about voluntary payment? Help Desk Number: 1800-103-4786 Log/Track Your Issues here Grievance Redressal Upcoming Due Dates Download PDF Monthly Quarterly Other Due Dates GST Media View all Uploaded On: {{getpropDate(video.uploaded_tmstmp)}} Top",
+  "canonical_url": null,
+  "category": "government",
+  "country": "IN",
+  "crawl_date": "2026-03-22T16:23:09.365051",
+  "links": [
+    "https://www.gst.gov.in/help/offlineutility",
+    "https://www.gst.gov.in/{{servers.GST_CONTENT_R1_URL}}/help/refund",
+    "https://www.gst.gov.in/{{servers.GST_CONTENT_R1_URL}}/help/demandRecovery",
+    "https://www.youtube.com/channel/UCFYpOk92qurlO5t-Z_y-bOQ",
+    "https://selfservice.gstsystem.in/",
+    "https://www.gst.gov.in/help/returns",
+    "https://www.gst.gov.in/help/enrollmentwithgst",
+    "https://www.gst.gov.in/{{servers.GST_CONTENT_R1_URL}}/help/appeal"
+  ],
+  "image_urls": [],
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "h4": [
+      "News and Updates",
+      "Popular help topics",
+      "Upcoming Due Dates\r\n\nDownload PDF",
+      "GST Media"
+    ],
+    "h5": [
+      "View all",
+      "View all"
+    ],
+    "h6": []
+  },
+  "word_count": 81,
+  "link_count": 8,
+  "image_count": 0
+}

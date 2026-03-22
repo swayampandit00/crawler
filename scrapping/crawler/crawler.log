@@ -1,0 +1,398 @@
+2026-03-22 15:53:41,367 - INFO - Loaded 145 seed URLs from seed.json
+2026-03-22 15:53:41,378 - INFO - Starting web crawler...
+2026-03-22 15:53:41,388 - INFO - Worker 0 started
+2026-03-22 15:53:41,389 - INFO - Crawling: https://indianexpress.com (depth: 0)
+2026-03-22 15:53:41,391 - INFO - Worker 1 started
+2026-03-22 15:53:41,393 - INFO - Crawling: https://scroll.in (depth: 0)
+2026-03-22 15:53:41,406 - INFO - Worker 2 started
+2026-03-22 15:53:41,480 - INFO - Worker 3 started
+2026-03-22 15:53:41,495 - INFO - Crawling: https://thewire.in (depth: 0)
+2026-03-22 15:53:41,519 - INFO - Crawling: https://timesofindia.indiatimes.com (depth: 0)
+2026-03-22 15:53:41,528 - INFO - Worker 4 started
+2026-03-22 15:53:41,537 - INFO - Worker 5 started
+2026-03-22 15:53:41,546 - INFO - Crawling: https://www.abplive.com (depth: 0)
+2026-03-22 15:53:41,547 - INFO - Crawling: https://www.aljazeera.com (depth: 0)
+2026-03-22 15:53:41,555 - INFO - Worker 6 started
+2026-03-22 15:53:41,556 - INFO - Crawling: https://www.bbc.com/news (depth: 0)
+2026-03-22 15:53:41,563 - INFO - Worker 7 started
+2026-03-22 15:53:41,568 - INFO - Crawling: https://www.business-standard.com (depth: 0)
+2026-03-22 15:53:45,991 - WARNING - HTTP 403 for https://www.business-standard.com
+2026-03-22 15:53:46,089 - ERROR - Error processing https://www.aljazeera.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:46,099 - ERROR - Error processing https://timesofindia.indiatimes.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:46,178 - ERROR - Error processing https://www.abplive.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:46,203 - ERROR - Error processing https://thewire.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:46,203 - INFO - Crawling: https://www.cnn.com (depth: 0)
+2026-03-22 15:53:46,210 - INFO - Crawling: https://www.deccanherald.com (depth: 0)
+2026-03-22 15:53:46,280 - INFO - Crawling: https://www.dnaindia.com (depth: 0)
+2026-03-22 15:53:46,321 - INFO - Crawling: https://www.financialexpress.com (depth: 0)
+2026-03-22 15:53:46,462 - ERROR - Error processing https://www.bbc.com/news: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:46,560 - ERROR - Error processing https://indianexpress.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:46,571 - INFO - Crawling: https://www.firstpost.com (depth: 0)
+2026-03-22 15:53:46,671 - INFO - Crawling: https://www.foxnews.com (depth: 0)
+2026-03-22 15:53:47,462 - ERROR - Error processing https://scroll.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:47,570 - INFO - Crawling: https://www.france24.com/en/ (depth: 0)
+2026-03-22 15:53:49,611 - WARNING - HTTP 403 for https://www.business-standard.com
+2026-03-22 15:53:49,745 - INFO - Crawling: https://www.hindustantimes.com (depth: 0)
+2026-03-22 15:53:50,009 - ERROR - Error processing https://www.deccanherald.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:50,035 - WARNING - HTTP 403 for https://www.dnaindia.com
+2026-03-22 15:53:50,123 - INFO - Crawling: https://www.indiatoday.in (depth: 0)
+2026-03-22 15:53:50,271 - ERROR - Error processing https://www.foxnews.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:50,384 - INFO - Crawling: https://www.indiatvnews.com (depth: 0)
+2026-03-22 15:53:50,395 - ERROR - Error processing https://www.firstpost.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:50,405 - ERROR - Error processing https://www.financialexpress.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:50,506 - INFO - Crawling: https://www.livemint.com (depth: 0)
+2026-03-22 15:53:50,508 - INFO - Crawling: https://www.nbcnews.com (depth: 0)
+2026-03-22 15:53:50,553 - WARNING - HTTP 403 for https://www.france24.com/en/
+2026-03-22 15:53:51,593 - INFO - Progress - Queue: 125, Visited: 0, Failed: 12, Elapsed: 10.2s
+2026-03-22 15:53:52,552 - ERROR - Error processing https://www.hindustantimes.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:52,671 - ERROR - Error processing https://www.cnn.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:52,676 - INFO - Crawling: https://www.ndtv.com (depth: 0)
+2026-03-22 15:53:52,890 - INFO - Crawling: https://www.news18.com (depth: 0)
+2026-03-22 15:53:53,307 - ERROR - Error processing https://www.indiatoday.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:53,540 - INFO - Crawling: https://www.nytimes.com (depth: 0)
+2026-03-22 15:53:53,639 - WARNING - HTTP 403 for https://www.france24.com/en/
+2026-03-22 15:53:54,055 - ERROR - Error processing https://www.livemint.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:54,222 - INFO - Crawling: https://www.opindia.com (depth: 0)
+2026-03-22 15:53:54,286 - WARNING - HTTP 403 for https://www.dnaindia.com
+2026-03-22 15:53:54,304 - INFO - Crawling: https://www.reuters.com (depth: 0)
+2026-03-22 15:53:54,407 - INFO - Crawling: https://www.theguardian.com/international (depth: 0)
+2026-03-22 15:53:54,428 - ERROR - Error processing https://www.indiatvnews.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:54,593 - INFO - Crawling: https://www.thehindu.com (depth: 0)
+2026-03-22 15:53:55,621 - WARNING - HTTP 403 for https://www.ndtv.com
+2026-03-22 15:53:55,696 - ERROR - Error processing https://www.nbcnews.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:55,820 - INFO - Crawling: https://www.tribuneindia.com (depth: 0)
+2026-03-22 15:53:56,004 - ERROR - Error processing https://www.news18.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:56,457 - INFO - Crawling: https://www.washingtonpost.com (depth: 0)
+2026-03-22 15:53:58,087 - ERROR - Error processing https://www.thehindu.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:58,194 - ERROR - Error processing https://www.nytimes.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:58,206 - INFO - Crawling: https://zeenews.india.com (depth: 0)
+2026-03-22 15:53:58,354 - INFO - Crawling: https://data.gov.in (depth: 0)
+2026-03-22 15:53:58,720 - WARNING - HTTP 401 for https://www.reuters.com
+2026-03-22 15:53:58,726 - WARNING - HTTP 403 for https://www.ndtv.com
+2026-03-22 15:53:59,062 - ERROR - Error processing https://www.theguardian.com/international: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:59,100 - INFO - Crawling: https://discord.com/discovery (depth: 0)
+2026-03-22 15:53:59,169 - INFO - Crawling: https://ec.europa.eu (depth: 0)
+2026-03-22 15:53:59,321 - ERROR - Error processing https://www.tribuneindia.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:53:59,423 - INFO - Crawling: https://eci.gov.in (depth: 0)
+2026-03-22 15:53:59,732 - WARNING - HTTP 403 for https://www.opindia.com
+2026-03-22 15:54:00,944 - WARNING - HTTP 403 for https://zeenews.india.com
+2026-03-22 15:54:01,346 - ERROR - Error processing https://discord.com/discovery: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:01,457 - INFO - Crawling: https://erosnow.com (depth: 0)
+2026-03-22 15:54:01,672 - INFO - Progress - Queue: 110, Visited: 0, Failed: 28, Elapsed: 20.3s
+2026-03-22 15:54:01,740 - INFO - Crawling: https://fr-fr.facebook.com (depth: 0)
+2026-03-22 15:54:02,172 - WARNING - HTTP 401 for https://www.reuters.com
+2026-03-22 15:54:02,274 - INFO - Crawling: https://gaana.com (depth: 0)
+2026-03-22 15:54:04,459 - WARNING - HTTP 403 for https://eci.gov.in
+2026-03-22 15:54:04,577 - WARNING - HTTP 403 for https://www.opindia.com
+2026-03-22 15:54:04,584 - ERROR - Error processing https://gaana.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:04,690 - INFO - Crawling: https://igod.gov.in (depth: 0)
+2026-03-22 15:54:04,713 - ERROR - Error processing https://data.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:04,822 - INFO - Crawling: https://in.indeed.com (depth: 0)
+2026-03-22 15:54:05,053 - WARNING - HTTP 400 for https://fr-fr.facebook.com
+2026-03-22 15:54:05,087 - ERROR - Error processing https://erosnow.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:05,103 - INFO - Crawling: https://india.gov.in (depth: 0)
+2026-03-22 15:54:05,190 - INFO - Crawling: https://letterboxd.com (depth: 0)
+2026-03-22 15:54:05,685 - ERROR - Error processing https://ec.europa.eu: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:05,788 - INFO - Crawling: https://line.me/en/ (depth: 0)
+2026-03-22 15:54:07,926 - WARNING - HTTP 403 for https://in.indeed.com
+2026-03-22 15:54:07,937 - ERROR - Error processing https://igod.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:08,043 - INFO - Crawling: https://mastodon.social (depth: 0)
+2026-03-22 15:54:08,612 - WARNING - HTTP 400 for https://fr-fr.facebook.com
+2026-03-22 15:54:09,291 - INFO - Crawling: https://music.youtube.com (depth: 0)
+2026-03-22 15:54:09,816 - ERROR - Error processing https://india.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:09,937 - INFO - Crawling: https://parivahan.gov.in (depth: 0)
+2026-03-22 15:54:10,016 - WARNING - HTTP 403 for https://in.indeed.com
+2026-03-22 15:54:10,118 - INFO - Crawling: https://pgportal.gov.in (depth: 0)
+2026-03-22 15:54:10,585 - ERROR - Error processing https://letterboxd.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:10,759 - INFO - Crawling: https://presidentofindia.nic.in (depth: 0)
+2026-03-22 15:54:11,305 - ERROR - Error processing https://mastodon.social: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:11,420 - INFO - Crawling: https://soundcloud.com (depth: 0)
+2026-03-22 15:54:11,741 - INFO - Progress - Queue: 97, Visited: 0, Failed: 40, Elapsed: 30.4s
+2026-03-22 15:54:12,086 - WARNING - HTTP 403 for https://www.opindia.com
+2026-03-22 15:54:12,269 - INFO - Crawling: https://telegram.org (depth: 0)
+2026-03-22 15:54:12,325 - ERROR - Error processing https://music.youtube.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:12,555 - INFO - Crawling: https://uidai.gov.in (depth: 0)
+2026-03-22 15:54:13,151 - ERROR - Error processing https://line.me/en/: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:13,292 - INFO - Crawling: https://up.gov.in (depth: 0)
+2026-03-22 15:54:13,401 - ERROR - Error processing https://parivahan.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:13,505 - INFO - Crawling: https://vk.com/feed (depth: 0)
+2026-03-22 15:54:13,567 - ERROR - Error processing https://presidentofindia.nic.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:13,600 - ERROR - Error processing https://pgportal.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:13,749 - INFO - Crawling: https://web.whatsapp.com (depth: 0)
+2026-03-22 15:54:13,828 - INFO - Crawling: https://www.99acres.com (depth: 0)
+2026-03-22 15:54:14,576 - ERROR - Error processing https://soundcloud.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:14,688 - INFO - Crawling: https://www.aicte-india.org (depth: 0)
+2026-03-22 15:54:15,157 - ERROR - Error processing https://uidai.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:15,276 - INFO - Crawling: https://www.australia.gov.au (depth: 0)
+2026-03-22 15:54:16,060 - ERROR - Error processing https://telegram.org: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:16,169 - INFO - Crawling: https://www.booking.com (depth: 0)
+2026-03-22 15:54:16,487 - WARNING - Request failed for https://vk.com/feed (attempt 1): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-22 15:54:16,654 - WARNING - HTTP 403 for https://www.99acres.com
+2026-03-22 15:54:16,657 - ERROR - Error processing https://up.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:16,759 - INFO - Crawling: https://www.bookmyshow.com (depth: 0)
+2026-03-22 15:54:16,776 - WARNING - HTTP 400 for https://web.whatsapp.com
+2026-03-22 15:54:19,694 - WARNING - HTTP 403 for https://www.99acres.com
+2026-03-22 15:54:19,706 - ERROR - Error processing https://www.aicte-india.org: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:19,788 - WARNING - HTTP 202 for https://www.booking.com
+2026-03-22 15:54:19,809 - INFO - Crawling: https://www.canada.ca (depth: 0)
+2026-03-22 15:54:19,811 - INFO - Crawling: https://www.cleartrip.com (depth: 0)
+2026-03-22 15:54:20,403 - WARNING - HTTP 400 for https://web.whatsapp.com
+2026-03-22 15:54:20,507 - INFO - Crawling: https://www.dailymotion.com (depth: 0)
+2026-03-22 15:54:20,999 - ERROR - Error processing https://www.australia.gov.au: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:21,105 - INFO - Crawling: https://www.deviantart.com (depth: 0)
+2026-03-22 15:54:21,272 - ERROR - Error processing https://vk.com/feed: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:21,389 - INFO - Crawling: https://www.digitalindia.gov.in (depth: 0)
+2026-03-22 15:54:21,827 - WARNING - HTTP 403 for https://www.bookmyshow.com
+2026-03-22 15:54:21,855 - INFO - Progress - Queue: 82, Visited: 0, Failed: 55, Elapsed: 40.5s
+2026-03-22 15:54:22,414 - ERROR - Error processing https://www.cleartrip.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:22,443 - WARNING - HTTP 202 for https://www.booking.com
+2026-03-22 15:54:22,486 - INFO - Crawling: https://www.discord.com (depth: 0)
+2026-03-22 15:54:22,534 - INFO - Crawling: https://www.disneyplus.com (depth: 0)
+2026-03-22 15:54:22,606 - INFO - Crawling: https://www.education.gov.in (depth: 0)
+2026-03-22 15:54:23,341 - ERROR - Error processing https://www.dailymotion.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:23,473 - INFO - Crawling: https://www.expedia.com (depth: 0)
+2026-03-22 15:54:24,709 - ERROR - Error processing https://www.deviantart.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:24,944 - INFO - Crawling: https://www.facebook.com (depth: 0)
+2026-03-22 15:54:26,349 - ERROR - Error processing https://www.education.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:26,456 - INFO - Crawling: https://www.fiverr.com (depth: 0)
+2026-03-22 15:54:27,007 - WARNING - HTTP 429 for https://www.expedia.com
+2026-03-22 15:54:27,704 - INFO - Crawling: https://www.flickr.com (depth: 0)
+2026-03-22 15:54:27,979 - ERROR - Error processing https://www.facebook.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:28,084 - INFO - Crawling: https://www.freshersworld.com (depth: 0)
+2026-03-22 15:54:28,341 - ERROR - Error processing https://www.discord.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:28,442 - INFO - Crawling: https://www.gov.uk (depth: 0)
+2026-03-22 15:54:28,685 - ERROR - Error processing https://www.disneyplus.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:28,803 - INFO - Crawling: https://www.gst.gov.in (depth: 0)
+2026-03-22 15:54:28,888 - ERROR - Error processing https://www.digitalindia.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:28,991 - INFO - Crawling: https://www.hotstar.com (depth: 0)
+2026-03-22 15:54:29,279 - WARNING - Request failed for https://www.washingtonpost.com (attempt 1): HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=30)
+2026-03-22 15:54:30,085 - ERROR - Error processing https://www.flickr.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:30,187 - INFO - Crawling: https://www.hulu.com (depth: 0)
+2026-03-22 15:54:30,856 - ERROR - Error processing https://www.fiverr.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:30,864 - ERROR - Error processing https://www.gst.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:30,922 - ERROR - Error processing https://www.hotstar.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:30,991 - INFO - Crawling: https://www.imdb.com (depth: 0)
+2026-03-22 15:54:31,025 - INFO - Crawling: https://www.incometax.gov.in (depth: 0)
+2026-03-22 15:54:31,026 - INFO - Crawling: https://www.indeed.com (depth: 0)
+2026-03-22 15:54:31,960 - INFO - Progress - Queue: 67, Visited: 0, Failed: 70, Elapsed: 50.6s
+2026-03-22 15:54:32,003 - ERROR - Error processing https://www.gov.uk: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:32,122 - INFO - Crawling: https://www.indiamart.com (depth: 0)
+2026-03-22 15:54:33,726 - WARNING - HTTP 403 for https://www.indeed.com
+2026-03-22 15:54:33,767 - WARNING - HTTP 202 for https://www.imdb.com
+2026-03-22 15:54:34,035 - ERROR - Error processing https://www.incometax.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:34,137 - INFO - Crawling: https://www.instagram.com (depth: 0)
+2026-03-22 15:54:34,371 - INFO - Crawling: https://www.instagram.com/explore (depth: 0)
+2026-03-22 15:54:34,409 - INFO - Crawling: https://www.irctc.co.in (depth: 0)
+2026-03-22 15:54:34,487 - ERROR - Error processing https://www.freshersworld.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:34,588 - INFO - Crawling: https://www.jiocinema.com (depth: 0)
+2026-03-22 15:54:34,723 - ERROR - Error processing https://www.indiamart.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:34,824 - INFO - Crawling: https://www.jiosaavn.com (depth: 0)
+2026-03-22 15:54:36,726 - ERROR - Error processing https://www.hulu.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:36,839 - INFO - Crawling: https://www.justdial.com (depth: 0)
+2026-03-22 15:54:37,000 - ERROR - Error processing https://www.instagram.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:37,101 - INFO - Crawling: https://www.linkedin.com (depth: 0)
+2026-03-22 15:54:37,123 - ERROR - Error processing https://www.jiocinema.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:37,225 - INFO - Crawling: https://www.linkedin.com/jobs (depth: 0)
+2026-03-22 15:54:37,292 - ERROR - Error processing https://www.instagram.com/explore: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:37,397 - INFO - Crawling: https://www.magicbricks.com (depth: 0)
+2026-03-22 15:54:38,087 - ERROR - Error processing https://www.jiosaavn.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:38,192 - INFO - Crawling: https://www.makemytrip.com (depth: 0)
+2026-03-22 15:54:38,931 - ERROR - Error processing https://www.justdial.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:39,046 - INFO - Crawling: https://www.monster.com (depth: 0)
+2026-03-22 15:54:39,658 - ERROR - Error processing https://www.magicbricks.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:39,759 - INFO - Crawling: https://www.monsterindia.com (depth: 0)
+2026-03-22 15:54:40,152 - ERROR - Error processing https://www.linkedin.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:40,221 - ERROR - Error processing https://www.linkedin.com/jobs: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:40,253 - INFO - Crawling: https://www.mxplayer.in (depth: 0)
+2026-03-22 15:54:40,322 - INFO - Crawling: https://www.mygov.in (depth: 0)
+2026-03-22 15:54:42,064 - INFO - Progress - Queue: 52, Visited: 0, Failed: 85, Elapsed: 60.7s
+2026-03-22 15:54:42,226 - ERROR - Error processing https://www.mxplayer.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:42,330 - INFO - Crawling: https://www.nasa.gov (depth: 0)
+2026-03-22 15:54:42,499 - ERROR - Error processing https://www.mygov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:42,600 - INFO - Crawling: https://www.naukri.com (depth: 0)
+2026-03-22 15:54:43,613 - ERROR - Error processing https://www.monsterindia.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:43,714 - INFO - Crawling: https://www.netflix.com (depth: 0)
+2026-03-22 15:54:43,851 - ERROR - Error processing https://www.nasa.gov: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:43,952 - INFO - Crawling: https://www.nhs.uk (depth: 0)
+2026-03-22 15:54:44,370 - ERROR - Error processing https://www.monster.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:44,471 - INFO - Crawling: https://www.olx.in (depth: 0)
+2026-03-22 15:54:45,882 - ERROR - Error processing https://www.nhs.uk: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:45,983 - INFO - Crawling: https://www.paramountplus.com (depth: 0)
+2026-03-22 15:54:48,024 - ERROR - Error processing https://www.netflix.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:48,126 - INFO - Crawling: https://www.peacocktv.com (depth: 0)
+2026-03-22 15:54:48,417 - ERROR - Error processing https://www.paramountplus.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:48,518 - INFO - Crawling: https://www.pinterest.co.uk (depth: 0)
+2026-03-22 15:54:50,817 - ERROR - Error processing https://www.peacocktv.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:50,919 - INFO - Crawling: https://www.pinterest.com (depth: 0)
+2026-03-22 15:54:52,078 - INFO - Progress - Queue: 43, Visited: 0, Failed: 94, Elapsed: 70.7s
+2026-03-22 15:54:52,343 - ERROR - Error processing https://www.pinterest.co.uk: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:52,488 - INFO - Crawling: https://www.pmindia.gov.in (depth: 0)
+2026-03-22 15:54:53,150 - ERROR - Error processing https://www.pinterest.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:53,252 - INFO - Crawling: https://www.pornhub.com (depth: 0)
+2026-03-22 15:54:54,593 - WARNING - Request failed for https://www.washingtonpost.com (attempt 2): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-22 15:54:54,940 - ERROR - Error processing https://www.pmindia.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:55,040 - INFO - Crawling: https://www.primevideo.com (depth: 0)
+2026-03-22 15:54:56,877 - WARNING - Request failed for https://www.canada.ca (attempt 1): HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=30)
+2026-03-22 15:54:57,023 - ERROR - Error processing https://www.primevideo.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:57,125 - INFO - Crawling: https://www.quikr.com (depth: 0)
+2026-03-22 15:54:58,487 - ERROR - Error processing https://www.quikr.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:54:58,588 - INFO - Crawling: https://www.quora.com (depth: 0)
+2026-03-22 15:54:59,784 - WARNING - HTTP 403 for https://www.quora.com
+2026-03-22 15:55:00,339 - INFO - Crawling: https://www.rbi.org.in (depth: 0)
+2026-03-22 15:55:02,090 - INFO - Progress - Queue: 37, Visited: 0, Failed: 100, Elapsed: 80.7s
+2026-03-22 15:55:03,410 - ERROR - Error processing https://www.rbi.org.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:03,511 - INFO - Crawling: https://www.reddit.com (depth: 0)
+2026-03-22 15:55:05,872 - ERROR - Error processing https://www.reddit.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:05,973 - INFO - Crawling: https://www.reddit.com/r/all (depth: 0)
+2026-03-22 15:55:08,923 - ERROR - Error processing https://www.reddit.com/r/all: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:09,024 - INFO - Crawling: https://www.rottentomatoes.com (depth: 0)
+2026-03-22 15:55:11,650 - ERROR - Error processing https://www.rottentomatoes.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:11,751 - INFO - Crawling: https://www.sebi.gov.in (depth: 0)
+2026-03-22 15:55:12,102 - INFO - Progress - Queue: 33, Visited: 0, Failed: 104, Elapsed: 90.7s
+2026-03-22 15:55:13,241 - ERROR - Error processing https://www.sebi.gov.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:13,342 - INFO - Crawling: https://www.shazam.com (depth: 0)
+2026-03-22 15:55:15,346 - ERROR - Error processing https://www.shazam.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:15,448 - INFO - Crawling: https://www.shine.com (depth: 0)
+2026-03-22 15:55:16,861 - WARNING - Request failed for https://www.washingtonpost.com (attempt 3): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-22 15:55:16,962 - INFO - Crawling: https://www.snapchat.com (depth: 0)
+2026-03-22 15:55:17,238 - ERROR - Error processing https://www.shine.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:17,339 - INFO - Crawling: https://www.snapchat.com/add (depth: 0)
+2026-03-22 15:55:18,825 - WARNING - Request failed for https://www.olx.in (attempt 1): HTTPSConnectionPool(host='www.olx.in', port=443): Read timed out. (read timeout=30)
+2026-03-22 15:55:18,915 - ERROR - Error processing https://www.snapchat.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:19,016 - INFO - Crawling: https://www.snapchat.com/discover (depth: 0)
+2026-03-22 15:55:21,776 - ERROR - Error processing https://www.snapchat.com/add: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:21,878 - INFO - Crawling: https://www.sonyliv.com (depth: 0)
+2026-03-22 15:55:22,114 - INFO - Progress - Queue: 27, Visited: 0, Failed: 110, Elapsed: 100.7s
+2026-03-22 15:55:22,670 - ERROR - Error processing https://www.snapchat.com/discover: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:22,771 - INFO - Crawling: https://www.spotify.com (depth: 0)
+2026-03-22 15:55:25,327 - ERROR - Error processing https://www.spotify.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:25,429 - INFO - Crawling: https://www.sulekha.com (depth: 0)
+2026-03-22 15:55:28,764 - ERROR - Error processing https://www.sulekha.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:28,865 - INFO - Crawling: https://www.threads.net (depth: 0)
+2026-03-22 15:55:30,099 - WARNING - Request failed for https://www.canada.ca (attempt 2): HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=30)
+2026-03-22 15:55:32,125 - INFO - Progress - Queue: 24, Visited: 0, Failed: 113, Elapsed: 110.7s
+2026-03-22 15:55:32,318 - ERROR - Error processing https://www.threads.net: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:32,420 - INFO - Crawling: https://www.threads.net/explore (depth: 0)
+2026-03-22 15:55:36,181 - ERROR - Error processing https://www.threads.net/explore: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:55:36,281 - INFO - Crawling: https://www.tiktok.com (depth: 0)
+2026-03-22 15:55:42,133 - INFO - Progress - Queue: 22, Visited: 0, Failed: 115, Elapsed: 120.8s
+2026-03-22 15:55:52,046 - WARNING - Request failed for https://www.olx.in (attempt 2): HTTPSConnectionPool(host='www.olx.in', port=443): Read timed out. (read timeout=30)
+2026-03-22 15:55:52,142 - INFO - Progress - Queue: 22, Visited: 0, Failed: 115, Elapsed: 130.8s
+2026-03-22 15:55:53,146 - WARNING - Request failed for https://www.sonyliv.com (attempt 1): HTTPSConnectionPool(host='www.sonyliv.com', port=443): Read timed out. (read timeout=30)
+2026-03-22 15:56:02,153 - INFO - Progress - Queue: 22, Visited: 0, Failed: 115, Elapsed: 140.8s
+2026-03-22 15:56:05,842 - WARNING - Request failed for https://www.canada.ca (attempt 3): HTTPSConnectionPool(host='www.canada.ca', port=443): Read timed out. (read timeout=30)
+2026-03-22 15:56:05,943 - INFO - Crawling: https://www.timesjobs.com (depth: 0)
+2026-03-22 15:56:07,226 - WARNING - Request failed for https://www.timesjobs.com (attempt 1): HTTPSConnectionPool(host='www.timesjobs.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))
+2026-03-22 15:56:09,365 - WARNING - Request failed for https://www.timesjobs.com (attempt 2): HTTPSConnectionPool(host='www.timesjobs.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))
+2026-03-22 15:56:12,163 - INFO - Progress - Queue: 21, Visited: 0, Failed: 116, Elapsed: 150.8s
+2026-03-22 15:56:12,710 - WARNING - Request failed for https://www.timesjobs.com (attempt 3): HTTPSConnectionPool(host='www.timesjobs.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)')))
+2026-03-22 15:56:12,814 - INFO - Crawling: https://www.tradeindia.com (depth: 0)
+2026-03-22 15:56:14,132 - ERROR - Error processing https://www.tradeindia.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:56:14,234 - INFO - Crawling: https://www.tripadvisor.com (depth: 0)
+2026-03-22 15:56:16,365 - WARNING - HTTP 403 for https://www.tripadvisor.com
+2026-03-22 15:56:17,384 - WARNING - Request failed for https://www.pornhub.com (attempt 1): HTTPSConnectionPool(host='www.pornhub.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AEAA5450>, 'Connection to www.pornhub.com timed out. (connect timeout=30)'))
+2026-03-22 15:56:18,103 - WARNING - HTTP 403 for https://www.tripadvisor.com
+2026-03-22 15:56:19,959 - WARNING - HTTP 403 for https://www.tripadvisor.com
+2026-03-22 15:56:20,060 - INFO - Crawling: https://www.tumblr.com (depth: 0)
+2026-03-22 15:56:22,062 - ERROR - Error processing https://www.tumblr.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:56:22,163 - INFO - Crawling: https://www.twitch.tv (depth: 0)
+2026-03-22 15:56:22,179 - INFO - Progress - Queue: 17, Visited: 0, Failed: 120, Elapsed: 160.8s
+2026-03-22 15:56:24,470 - ERROR - Error processing https://www.twitch.tv: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:56:24,572 - INFO - Crawling: https://www.ugc.ac.in (depth: 0)
+2026-03-22 15:56:25,786 - WARNING - Request failed for https://www.sonyliv.com (attempt 2): HTTPSConnectionPool(host='www.sonyliv.com', port=443): Read timed out. (read timeout=30)
+2026-03-22 15:56:27,146 - WARNING - Request failed for https://www.olx.in (attempt 3): HTTPSConnectionPool(host='www.olx.in', port=443): Read timed out. (read timeout=30)
+2026-03-22 15:56:27,261 - INFO - Crawling: https://www.un.org (depth: 0)
+2026-03-22 15:56:29,311 - ERROR - Error processing https://www.ugc.ac.in: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:56:29,412 - INFO - Crawling: https://www.upwork.com (depth: 0)
+2026-03-22 15:56:29,988 - ERROR - Error processing https://www.un.org: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:56:30,089 - INFO - Crawling: https://www.usa.gov (depth: 0)
+2026-03-22 15:56:30,813 - WARNING - HTTP 403 for https://www.upwork.com
+2026-03-22 15:56:31,371 - INFO - Crawling: https://www.vimeo.com (depth: 0)
+2026-03-22 15:56:32,188 - INFO - Progress - Queue: 12, Visited: 0, Failed: 125, Elapsed: 170.8s
+2026-03-22 15:56:33,939 - ERROR - Error processing https://www.usa.gov: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:56:34,040 - INFO - Crawling: https://www.vk.com (depth: 0)
+2026-03-22 15:56:34,945 - ERROR - Error processing https://www.vimeo.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:56:35,047 - INFO - Crawling: https://www.voot.com (depth: 0)
+2026-03-22 15:56:36,838 - WARNING - Request failed for https://www.vk.com (attempt 1): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-22 15:56:39,419 - WARNING - Request failed for https://www.vk.com (attempt 2): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-22 15:56:40,644 - ERROR - Error processing https://www.voot.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:56:40,745 - INFO - Crawling: https://www.wechat.com (depth: 0)
+2026-03-22 15:56:42,196 - INFO - Progress - Queue: 9, Visited: 0, Failed: 128, Elapsed: 180.8s
+2026-03-22 15:56:42,737 - WARNING - Request failed for https://www.vk.com (attempt 3): ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2026-03-22 15:56:42,837 - INFO - Crawling: https://www.weibo.com (depth: 0)
+2026-03-22 15:56:52,210 - INFO - Progress - Queue: 8, Visited: 0, Failed: 129, Elapsed: 190.8s
+2026-03-22 15:56:59,256 - WARNING - Request failed for https://www.sonyliv.com (attempt 3): HTTPSConnectionPool(host='www.sonyliv.com', port=443): Read timed out. (read timeout=30)
+2026-03-22 15:56:59,356 - INFO - Crawling: https://www.whitehouse.gov (depth: 0)
+2026-03-22 15:57:00,418 - WARNING - Request failed for https://www.tiktok.com (attempt 1): HTTPSConnectionPool(host='www.tiktok.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AE1B2D50>, 'Connection to www.tiktok.com timed out. (connect timeout=30)'))
+2026-03-22 15:57:02,225 - INFO - Progress - Queue: 7, Visited: 0, Failed: 130, Elapsed: 200.8s
+2026-03-22 15:57:02,374 - ERROR - Error processing https://www.whitehouse.gov: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:57:02,478 - INFO - Crawling: https://www.who.int (depth: 0)
+2026-03-22 15:57:03,746 - ERROR - Error processing https://www.who.int: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:57:03,846 - INFO - Crawling: https://www.yellowpages.com (depth: 0)
+2026-03-22 15:57:05,035 - WARNING - HTTP 403 for https://www.yellowpages.com
+2026-03-22 15:57:05,703 - INFO - Crawling: https://www.yelp.com (depth: 0)
+2026-03-22 15:57:10,026 - ERROR - Error processing https://www.yelp.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:57:10,127 - INFO - Crawling: https://www.youtube.com (depth: 0)
+2026-03-22 15:57:11,895 - ERROR - Error processing https://www.youtube.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:57:11,996 - INFO - Crawling: https://www.zee5.com (depth: 0)
+2026-03-22 15:57:12,231 - INFO - Progress - Queue: 2, Visited: 0, Failed: 135, Elapsed: 210.9s
+2026-03-22 15:57:13,204 - WARNING - HTTP 403 for https://www.zee5.com
+2026-03-22 15:57:13,773 - INFO - Crawling: https://x.com (depth: 0)
+2026-03-22 15:57:15,669 - ERROR - Error processing https://x.com: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2026-03-22 15:57:15,769 - INFO - Crawling: https://yellowpages.in (depth: 0)
+2026-03-22 15:57:18,726 - WARNING - Certificate did not match expected hostname: yellowpages.in. Certificate: {'subject': ((('countryName', 'US'),), (('stateOrProvinceName', 'WA'),), (('localityName', 'Redmond'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', '*.azurewebsites.net'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', 'Microsoft Azure RSA TLS Issuing CA 04'),)), 'version': 3, 'serialNumber': '3303B6D49687DD648A2910100D000003B6D496', 'notBefore': 'Mar  9 14:45:17 2026 GMT', 'notAfter': 'Aug 25 23:59:59 2026 GMT', 'subjectAltName': (('DNS', '*.azurewebsites.net'), ('DNS', '*.scm.azurewebsites.net'), ('DNS', '*.sso.azurewebsites.net'), ('DNS', '*.southcentralus-01.azurewebsites.net'), ('DNS', '*.scm.southcentralus-01.azurewebsites.net'), ('DNS', '*.sso.southcentralus-01.azurewebsites.net'), ('DNS', '*.southcentralus.c.azurewebsites.net'), ('DNS', '*.scm.southcentralus.c.azurewebsites.net'), ('DNS', '*.sso.southcentralus.c.azurewebsites.net'), ('DNS', '*.azure-mobile.net'), ('DNS', '*.scm.azure-mobile.net')), 'OCSP': ('http://oneocsp.microsoft.com/ocsp',), 'caIssuers': ('http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2004%20-%20xsign.crt',), 'crlDistributionPoints': ('http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2004_Partition00048.crl',)}
+2026-03-22 15:57:18,728 - WARNING - Request failed for https://yellowpages.in (attempt 1): HTTPSConnectionPool(host='yellowpages.in', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'yellowpages.in' doesn't match either of '*.azurewebsites.net', '*.scm.azurewebsites.net', '*.sso.azurewebsites.net', '*.southcentralus-01.azurewebsites.net', '*.scm.southcentralus-01.azurewebsites.net', '*.sso.southcentralus-01.azurewebsites.net', '*.southcentralus.c.azurewebsites.net', '*.scm.southcentralus.c.azurewebsites.net', '*.sso.southcentralus.c.azurewebsites.net', '*.azure-mobile.net', '*.scm.azure-mobile.net'")))
+2026-03-22 15:57:22,241 - INFO - Progress - Queue: 0, Visited: 0, Failed: 137, Elapsed: 220.9s
+2026-03-22 15:57:22,367 - WARNING - Certificate did not match expected hostname: yellowpages.in. Certificate: {'subject': ((('countryName', 'US'),), (('stateOrProvinceName', 'WA'),), (('localityName', 'Redmond'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', '*.azurewebsites.net'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', 'Microsoft Azure RSA TLS Issuing CA 04'),)), 'version': 3, 'serialNumber': '3303B6D49687DD648A2910100D000003B6D496', 'notBefore': 'Mar  9 14:45:17 2026 GMT', 'notAfter': 'Aug 25 23:59:59 2026 GMT', 'subjectAltName': (('DNS', '*.azurewebsites.net'), ('DNS', '*.scm.azurewebsites.net'), ('DNS', '*.sso.azurewebsites.net'), ('DNS', '*.southcentralus-01.azurewebsites.net'), ('DNS', '*.scm.southcentralus-01.azurewebsites.net'), ('DNS', '*.sso.southcentralus-01.azurewebsites.net'), ('DNS', '*.southcentralus.c.azurewebsites.net'), ('DNS', '*.scm.southcentralus.c.azurewebsites.net'), ('DNS', '*.sso.southcentralus.c.azurewebsites.net'), ('DNS', '*.azure-mobile.net'), ('DNS', '*.scm.azure-mobile.net')), 'OCSP': ('http://oneocsp.microsoft.com/ocsp',), 'caIssuers': ('http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2004%20-%20xsign.crt',), 'crlDistributionPoints': ('http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2004_Partition00048.crl',)}
+2026-03-22 15:57:22,370 - WARNING - Request failed for https://yellowpages.in (attempt 2): HTTPSConnectionPool(host='yellowpages.in', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'yellowpages.in' doesn't match either of '*.azurewebsites.net', '*.scm.azurewebsites.net', '*.sso.azurewebsites.net', '*.southcentralus-01.azurewebsites.net', '*.scm.southcentralus-01.azurewebsites.net', '*.sso.southcentralus-01.azurewebsites.net', '*.southcentralus.c.azurewebsites.net', '*.scm.southcentralus.c.azurewebsites.net', '*.sso.southcentralus.c.azurewebsites.net', '*.azure-mobile.net', '*.scm.azure-mobile.net'")))
+2026-03-22 15:57:26,960 - WARNING - Certificate did not match expected hostname: yellowpages.in. Certificate: {'subject': ((('countryName', 'US'),), (('stateOrProvinceName', 'WA'),), (('localityName', 'Redmond'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', '*.azurewebsites.net'),)), 'issuer': ((('countryName', 'US'),), (('organizationName', 'Microsoft Corporation'),), (('commonName', 'Microsoft Azure RSA TLS Issuing CA 04'),)), 'version': 3, 'serialNumber': '3303B6D49687DD648A2910100D000003B6D496', 'notBefore': 'Mar  9 14:45:17 2026 GMT', 'notAfter': 'Aug 25 23:59:59 2026 GMT', 'subjectAltName': (('DNS', '*.azurewebsites.net'), ('DNS', '*.scm.azurewebsites.net'), ('DNS', '*.sso.azurewebsites.net'), ('DNS', '*.southcentralus-01.azurewebsites.net'), ('DNS', '*.scm.southcentralus-01.azurewebsites.net'), ('DNS', '*.sso.southcentralus-01.azurewebsites.net'), ('DNS', '*.southcentralus.c.azurewebsites.net'), ('DNS', '*.scm.southcentralus.c.azurewebsites.net'), ('DNS', '*.sso.southcentralus.c.azurewebsites.net'), ('DNS', '*.azure-mobile.net'), ('DNS', '*.scm.azure-mobile.net')), 'OCSP': ('http://oneocsp.microsoft.com/ocsp',), 'caIssuers': ('http://www.microsoft.com/pkiops/certs/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2004%20-%20xsign.crt',), 'crlDistributionPoints': ('http://www.microsoft.com/pkiops/crl/Microsoft%20Azure%20RSA%20TLS%20Issuing%20CA%2004_Partition00048.crl',)}
+2026-03-22 15:57:26,965 - WARNING - Request failed for https://yellowpages.in (attempt 3): HTTPSConnectionPool(host='yellowpages.in', port=443): Max retries exceeded with url: / (Caused by SSLError(CertificateError("hostname 'yellowpages.in' doesn't match either of '*.azurewebsites.net', '*.scm.azurewebsites.net', '*.sso.azurewebsites.net', '*.southcentralus-01.azurewebsites.net', '*.scm.southcentralus-01.azurewebsites.net', '*.sso.southcentralus-01.azurewebsites.net', '*.southcentralus.c.azurewebsites.net', '*.scm.southcentralus.c.azurewebsites.net', '*.sso.southcentralus.c.azurewebsites.net', '*.azure-mobile.net', '*.scm.azure-mobile.net'")))
+2026-03-22 15:57:32,252 - INFO - Progress - Queue: 0, Visited: 0, Failed: 138, Elapsed: 230.9s
+2026-03-22 15:57:42,261 - INFO - Progress - Queue: 0, Visited: 0, Failed: 138, Elapsed: 240.9s
+2026-03-22 15:57:42,464 - WARNING - Request failed for https://www.pornhub.com (attempt 2): HTTPSConnectionPool(host='www.pornhub.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AE1B3B10>, 'Connection to www.pornhub.com timed out. (connect timeout=30)'))
+2026-03-22 15:57:52,271 - INFO - Progress - Queue: 0, Visited: 0, Failed: 138, Elapsed: 250.9s
+2026-03-22 15:58:02,279 - INFO - Progress - Queue: 0, Visited: 0, Failed: 138, Elapsed: 260.9s
+2026-03-22 15:58:04,860 - WARNING - Request failed for https://www.wechat.com (attempt 1): HTTPSConnectionPool(host='www.wechat.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AEAA51D0>, 'Connection to www.wechat.com timed out. (connect timeout=30)'))
+2026-03-22 15:58:07,142 - WARNING - Request failed for https://www.weibo.com (attempt 1): HTTPSConnectionPool(host='www.weibo.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AEAA4E10>, 'Connection to www.weibo.com timed out. (connect timeout=30)'))
+2026-03-22 15:58:12,290 - INFO - Progress - Queue: 0, Visited: 0, Failed: 138, Elapsed: 270.9s
+2026-03-22 15:58:22,302 - INFO - Progress - Queue: 0, Visited: 0, Failed: 138, Elapsed: 280.9s
+2026-03-22 15:58:25,487 - WARNING - Request failed for https://www.tiktok.com (attempt 2): HTTPSConnectionPool(host='www.tiktok.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AEAA5310>, 'Connection to www.tiktok.com timed out. (connect timeout=30)'))
+2026-03-22 15:58:32,316 - INFO - Progress - Queue: 0, Visited: 0, Failed: 138, Elapsed: 290.9s
+2026-03-22 15:58:42,324 - INFO - Progress - Queue: 0, Visited: 0, Failed: 138, Elapsed: 300.9s
+2026-03-22 15:58:52,333 - INFO - Progress - Queue: 0, Visited: 0, Failed: 138, Elapsed: 311.0s
+2026-03-22 15:59:02,347 - INFO - Progress - Queue: 0, Visited: 0, Failed: 138, Elapsed: 321.0s
+2026-03-22 15:59:08,539 - WARNING - Request failed for https://www.pornhub.com (attempt 3): HTTPSConnectionPool(host='www.pornhub.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AEAA6710>, 'Connection to www.pornhub.com timed out. (connect timeout=30)'))
+2026-03-22 15:59:12,360 - INFO - Progress - Queue: 0, Visited: 0, Failed: 139, Elapsed: 331.0s
+2026-03-22 15:59:22,373 - INFO - Progress - Queue: 0, Visited: 0, Failed: 139, Elapsed: 341.0s
+2026-03-22 15:59:29,949 - WARNING - Request failed for https://www.wechat.com (attempt 2): HTTPSConnectionPool(host='www.wechat.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AEAA5950>, 'Connection to www.wechat.com timed out. (connect timeout=30)'))
+2026-03-22 15:59:32,213 - WARNING - Request failed for https://www.weibo.com (attempt 2): HTTPSConnectionPool(host='www.weibo.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AEAA5A90>, 'Connection to www.weibo.com timed out. (connect timeout=30)'))
+2026-03-22 15:59:32,382 - INFO - Progress - Queue: 0, Visited: 0, Failed: 139, Elapsed: 351.0s
+2026-03-22 15:59:42,392 - INFO - Progress - Queue: 0, Visited: 0, Failed: 139, Elapsed: 361.0s
+2026-03-22 15:59:51,554 - WARNING - Request failed for https://www.tiktok.com (attempt 3): HTTPSConnectionPool(host='www.tiktok.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AEAA5BD0>, 'Connection to www.tiktok.com timed out. (connect timeout=30)'))
+2026-03-22 15:59:52,399 - INFO - Progress - Queue: 0, Visited: 0, Failed: 140, Elapsed: 371.0s
+2026-03-22 16:00:02,411 - INFO - Progress - Queue: 0, Visited: 0, Failed: 140, Elapsed: 381.0s
+2026-03-22 16:00:12,418 - INFO - Progress - Queue: 0, Visited: 0, Failed: 140, Elapsed: 391.0s
+2026-03-22 16:00:22,434 - INFO - Progress - Queue: 0, Visited: 0, Failed: 140, Elapsed: 401.1s
+2026-03-22 16:00:32,444 - INFO - Progress - Queue: 0, Visited: 0, Failed: 140, Elapsed: 411.1s
+2026-03-22 16:00:42,453 - INFO - Progress - Queue: 0, Visited: 0, Failed: 140, Elapsed: 421.1s
+2026-03-22 16:00:52,462 - INFO - Progress - Queue: 0, Visited: 0, Failed: 140, Elapsed: 431.1s
+2026-03-22 16:00:56,047 - WARNING - Request failed for https://www.wechat.com (attempt 3): HTTPSConnectionPool(host='www.wechat.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AEAA5E50>, 'Connection to www.wechat.com timed out. (connect timeout=30)'))
+2026-03-22 16:00:58,274 - WARNING - Request failed for https://www.weibo.com (attempt 3): HTTPSConnectionPool(host='www.weibo.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000164AEAA5F90>, 'Connection to www.weibo.com timed out. (connect timeout=30)'))
+2026-03-22 16:01:02,470 - INFO - Progress - Queue: 0, Visited: 0, Failed: 142, Elapsed: 441.1s
+2026-03-22 16:01:12,482 - INFO - Progress - Queue: 0, Visited: 0, Failed: 142, Elapsed: 451.1s
+2026-03-22 16:01:22,493 - INFO - Progress - Queue: 0, Visited: 0, Failed: 142, Elapsed: 461.1s
+2026-03-22 16:01:32,505 - INFO - Progress - Queue: 0, Visited: 0, Failed: 142, Elapsed: 471.1s
+2026-03-22 16:01:37,756 - INFO - Received interrupt signal, stopping crawler...
+2026-03-22 16:01:37,759 - INFO - Stopping crawler...
+2026-03-22 16:01:37,840 - INFO - Worker 6 stopped
+2026-03-22 16:01:37,842 - INFO - Worker 5 stopped
+2026-03-22 16:01:38,242 - INFO - Worker 3 stopped
+2026-03-22 16:01:38,461 - INFO - Worker 7 stopped
+2026-03-22 16:01:38,516 - INFO - Worker 1 stopped
+2026-03-22 16:01:52,762 - INFO - Crawler stopped. Final statistics:
+2026-03-22 16:01:52,763 - INFO - Pages crawled: 0
+2026-03-22 16:01:52,764 - INFO - Pages failed: 142
+2026-03-22 16:01:52,765 - INFO - Links found: 0
+2026-03-22 16:01:52,766 - INFO - Images found: 0
+2026-03-22 16:01:52,767 - INFO - Domains crawled: 0
+2026-03-22 16:01:52,768 - INFO - Total time: 491.4 seconds

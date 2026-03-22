@@ -1,0 +1,36 @@
+{
+  "url": "https://data.gov.in",
+  "title": "Home | Open Government Data (OGD) Platform India",
+  "meta_description": "Open Government Data Platform (OGD) India is a single-point of access to Datasets/Apps in open format published by Ministries/Departments. Details of Events, Visualizations, Blogs, infographs.",
+  "meta_keywords": "Open Government Data, OGD, Data Portal India, Open Data Portal, Open Data, Indian Government Data, Free Data, Open Data India, Data Science, Data Visualization",
+  "text_content": "Search Datasets Here Search Analytics Last updated 01/01/1970 05:30:00 0 VISUALIZATIONS 0.00 M TIMES DOWNLOADED 0.00 M TIMES VIEWED 0 CHIEF DATA OFFICERS 0 APIs Discover Datasets By Discover Datasets By Groups View More Central View More APIs View More",
+  "canonical_url": "https://data.gov.in",
+  "category": "government",
+  "country": "IN",
+  "crawl_date": "2026-03-22T16:22:40.705048",
+  "links": [
+    "https://data.gov.in/analytics",
+    "https://data.gov.in/catalogs/",
+    "https://data.gov.in/apis/",
+    "https://visualize.data.gov.in/all_visualization.php",
+    "https://data.gov.in/cdo",
+    "https://data.gov.in/apis"
+  ],
+  "image_urls": [
+    "https://data.gov.in/_nuxt/img/analytichome.fb01042.png"
+  ],
+  "headings": {
+    "h1": [],
+    "h2": [
+      "Discover Datasets By",
+      "Discover Datasets By"
+    ],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "word_count": 40,
+  "link_count": 6,
+  "image_count": 1
+}

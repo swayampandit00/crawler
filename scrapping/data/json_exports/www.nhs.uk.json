@@ -1,0 +1,64 @@
+{
+  "url": "https://www.nhs.uk",
+  "title": "NHS website for England - NHS",
+  "meta_description": "Find information and services to help you manage your health.",
+  "meta_keywords": "",
+  "text_content": "NHS website for England Find information and services to help you manage your health Health A to Z Find out about conditions, symptoms, medicines, tests and treatments, including when to get help NHS services Find out about NHS services including GPs, pharmacies, prescriptions, hospitals and dentists Manage your health Order a repeat prescription View your test results Appointments and bookings at your GP surgery How to register with a GP surgery Find your NHS number NHS services Find a pharmacy Find a dentist Find a GP Find NHS talking therapies for anxiety and depression Find other NHS services Help from NHS 111 If you're worried about a symptom and not sure what help you need, NHS 111 can tell you what to do next. Go to 111.nhs.uk or call 111 . For a life-threatening emergency call 999. Featured Winter vaccinations and winter health Find out about things you can do to stay well in winter, including getting your flu vaccination Colds, coughs and ear infections in children Get advice about colds, sore throats, coughs and ear infections in babies and young children Refer yourself for help for back and joint problems Get NHS help from community musculoskeletal (MSK) services, like physiotherapy, for back and joint problems More information and advice Vaccinations Information about vaccinations for babies, children and adults, including why they're important and how to get them COVID-19 Advice about COVID-19, including symptoms, treatments and how to avoid catching and spreading it. Baby A guide to everything you need to know about caring for a baby Women's health Information and support on health, wellbeing, conditions and screening Contraception Information about different types of contraception, including where to get them and how well they work",
+  "canonical_url": "https://www.nhs.uk/",
+  "category": "government",
+  "country": "GB",
+  "crawl_date": "2026-03-22T16:23:30.644251",
+  "links": [
+    "https://www.nhs.uk/womens-health/",
+    "https://www.nhs.uk/live-well/seasonal-health/keep-warm-keep-well/",
+    "https://111.nhs.uk/?utm_source=nhsuk&utm_campaign=homepage",
+    "https://www.nhs.uk/vaccinations/",
+    "https://www.nhs.uk/nhs-services/get-nhs-help-for-back-joint-problems/",
+    "https://www.nhs.uk/baby/health/colds-coughs-and-ear-infections-in-children/",
+    "https://www.nhs.uk/nhs-services/",
+    "https://www.nhs.uk/nhs-services/gps/how-to-register-with-a-gp-surgery/",
+    "https://www.nhs.uk/service-search/find-a-pharmacy/",
+    "https://www.nhs.uk/baby/",
+    "https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/",
+    "https://www.nhs.uk/nhs-services/gps/gp-appointments-and-bookings/",
+    "https://www.nhs.uk/health-a-to-z/",
+    "https://www.nhs.uk/nhs-services/gps/view-your-test-results/",
+    "https://www.nhs.uk/contraception/",
+    "https://www.nhs.uk/service-search/find-a-dentist",
+    "https://www.nhs.uk/nhs-services/find-nhs-number/",
+    "https://www.nhs.uk/conditions/covid-19/",
+    "https://www.nhs.uk/service-search/find-a-GP",
+    "https://www.nhs.uk/nhs-services/prescriptions/how-to-order-a-repeat-prescription/"
+  ],
+  "image_urls": [],
+  "headings": {
+    "h1": [
+      "NHS website for England\nFind information and services to help you manage your health"
+    ],
+    "h2": [
+      "Health A to Z",
+      "NHS services",
+      "Manage your health",
+      "NHS services",
+      "Featured",
+      "More information and advice",
+      "Vaccinations",
+      "COVID-19",
+      "Baby",
+      "Women's health",
+      "Contraception"
+    ],
+    "h3": [
+      "Help from NHS 111",
+      "Winter vaccinations and winter health",
+      "Colds, coughs and ear infections in children",
+      "Refer yourself for help for back and joint problems"
+    ],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "word_count": 285,
+  "link_count": 20,
+  "image_count": 0
+}

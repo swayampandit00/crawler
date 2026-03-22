@@ -1,0 +1,35 @@
+{
+  "url": "https://x.com",
+  "title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "text_content": "JavaScript is not available. We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center. Help Center Terms of Service Privacy Policy Cookie Policy Imprint Ads info © 2026 X Corp. Something went wrong, but don’t fret — let’s give it another shot. Try again Firefox’s Enhanced Tracking Protection (Strict Mode) is known to cause issues on x.com",
+  "canonical_url": null,
+  "category": "social_media",
+  "country": "US",
+  "crawl_date": "2026-03-22T16:25:32.510606",
+  "links": [
+    "https://legal.twitter.com/imprint.html",
+    "https://support.x.com/articles/20170514",
+    "https://help.x.com/using-x/x-supported-browsers",
+    "https://x.com/tos",
+    "https://x.com/privacy",
+    "https://business.twitter.com/en/help/troubleshooting/how-twitter-ads-work.html?ref=web-twc-ao-gbl-adsinfo&utm_source=twc&utm_medium=web&utm_campaign=ao&utm_content=adsinfo"
+  ],
+  "image_urls": [
+    "https://abs-0.twimg.com/emoji/v2/svg/26a0.svg"
+  ],
+  "headings": {
+    "h1": [
+      "JavaScript is not available."
+    ],
+    "h2": [],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "word_count": 81,
+  "link_count": 6,
+  "image_count": 1
+}

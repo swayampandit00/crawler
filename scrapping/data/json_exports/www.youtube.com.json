@@ -1,0 +1,38 @@
+{
+  "url": "https://www.youtube.com",
+  "title": "YouTube",
+  "meta_description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+  "meta_keywords": "video, sharing, camera phone, video phone, free, upload",
+  "text_content": "YouTube About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features © 2026 Google LLC",
+  "canonical_url": "https://www.youtube.com/",
+  "category": "social_media",
+  "country": "US",
+  "crawl_date": "2026-03-22T16:25:29.496782",
+  "links": [
+    "https://www.youtube.com/new",
+    "https://www.youtube.com/about/policies/",
+    "https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen",
+    "https://www.youtube.com/t/terms",
+    "https://www.youtube.com/creators/",
+    "https://developers.google.com/youtube",
+    "https://www.youtube.com/about/press/",
+    "https://www.youtube.com/about/",
+    "https://www.youtube.com/about/copyright/",
+    "https://www.youtube.com/",
+    "https://www.youtube.com/t/privacy",
+    "https://www.youtube.com/t/contact_us/",
+    "https://www.youtube.com/ads/"
+  ],
+  "image_urls": [],
+  "headings": {
+    "h1": [],
+    "h2": [],
+    "h3": [],
+    "h4": [],
+    "h5": [],
+    "h6": []
+  },
+  "word_count": 24,
+  "link_count": 13,
+  "image_count": 0
+}
