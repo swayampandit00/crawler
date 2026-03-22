@@ -59,6 +59,7 @@ Run the crawler with default settings:
 ```bash
 cd scrapping/crawler
 python main.py
+python run.py
 ```
 
 ### Advanced Usage
